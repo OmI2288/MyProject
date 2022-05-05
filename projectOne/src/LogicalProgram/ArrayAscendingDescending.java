@@ -49,7 +49,7 @@ public class ArrayAscendingDescending {
 				System.out.print(b[i] + " ");
 			}
 			
-			
+		System.out.println();	
 			
 		}
 
