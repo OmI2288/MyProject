@@ -16,6 +16,15 @@ public class ReverseString {
 			rev = rev + a.charAt(i);
 		}
 		System.out.println(rev);
+		
+		if (rev.equals(a) )
+		{
+			System.out.println("String is not Palindrome");
+		}
+		else
+		{
+			System.out.println("String is Not Palindrome");
+		}
 	}
 
 }
