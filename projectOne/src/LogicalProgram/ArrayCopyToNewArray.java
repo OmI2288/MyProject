@@ -24,7 +24,7 @@ public class ArrayCopyToNewArray {
 		System.out.println();
 		
 		//print another array 
-		System.out.println("Elements Of New Array");
+		System.out.println("Elements Of New Array b");
 		for (int i= 0 ; i<= l-1 ; i++)
 		{
 			System.out.print(b[i]+" ");
