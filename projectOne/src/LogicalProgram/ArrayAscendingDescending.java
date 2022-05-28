@@ -22,6 +22,7 @@ public class ArrayAscendingDescending {
 			for (int i = 0; i <= l - 1; i++) {
 				System.out.print(+a[i] + " ");
 			}
+			
 			System.out.println();
 			
 //	For Descending array 
