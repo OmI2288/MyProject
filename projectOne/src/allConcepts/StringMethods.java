@@ -23,6 +23,6 @@ public class StringMethods {
 		System.out.println(a.substring(2,6));
 		System.out.println(a.replace('a','P' ));
 		System.out.println(a.isEmpty());
-		
+		System.out.println(b.isEmpty());
 	}
 }
